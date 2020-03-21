@@ -26,3 +26,6 @@ function submit_data(){
         Title:title_In, Utgivelsesår:ut_In, Forfater:fat_In, Forlag:for_In, Rating:rat_In
     });
 }
+function sendToGitHub(){
+    window.location="https://github.com/YusufTaspinar";
+}
