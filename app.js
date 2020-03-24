@@ -27,5 +27,5 @@ function submit_data(){
     });
 }
 function sendToGitHub(){
-    window.location="https://github.com/YusufTaspinar";
+    window.location="https://github.com/YusufTaspinar/nytt_repo";
 }
